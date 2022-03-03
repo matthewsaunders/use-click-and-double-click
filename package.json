@@ -1,6 +1,6 @@
 {
   "name": "use-click-and-double-click",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react hook to allow both click and doubleClick events on an element",
   "main": "src/index.js",
   "scripts": {
