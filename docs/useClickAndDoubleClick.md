@@ -23,7 +23,7 @@ const Demo = () => {
 
       <button
         onClick={ handleClick }
-        onClick={ handleDoubleClick }
+        onDoubleClick={ handleDoubleClick }
       >
         Click Me
       </button>
