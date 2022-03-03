@@ -1,0 +1,22 @@
+{
+  "name": "use-click-and-double-click",
+  "version": "1.0.0",
+  "description": "A react hook to allow both click and doubleClick events on an element",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msaun008/use-click-and-double-click.git"
+  },
+  "author": "msaun008",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msaun008/use-click-and-double-click/issues"
+  },
+  "homepage": "https://github.com/msaun008/use-click-and-double-click#readme",
+  "peerDependencies": {
+    "react": "^16.8.0  || ^17.0.0"
+  }
+}
