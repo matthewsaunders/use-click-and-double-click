@@ -7,7 +7,6 @@ const delay = (n) => {
 };
 
 const useClickAndDoubleClick = (onClick, onDoubleClick) => {
-  console.log('--> matt pkg');
   const promises = useCancellablePromises();
 
   const handleClick = () => {
