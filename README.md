@@ -6,4 +6,4 @@
 ## Hooks
 
 - [useClickAndDoubleClick](./docs/useClickAndDoubleClick.md) &mdash; register event handlers for both `click` and `dblclick` events
-- [useCancellablePromises](./docs/useCancellablePromises) &mdash; store pending promises and make them cancellable
+- [useCancellablePromises](./docs/useCancellablePromises.md) &mdash; store pending promises and make them cancellable
